@@ -87,7 +87,7 @@ section {
   display: flex;
   align-items: center;
   padding: 0 9%;
-  background: url('img/home.png') no-repeat;
+  background: url('https://raw.githubusercontent.com/Yuda-Aradea/portfolio1/main/img/home.png') no-repeat;
   background-size: cover;
   background-position: center;
 }
